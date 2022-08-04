@@ -371,6 +371,7 @@ h3 {
   position: relative;
   top: 0;
   width: 100%;
+  z-index: 999;
 }
 
 .waves-effect.waves-blue .waves-ripple {
