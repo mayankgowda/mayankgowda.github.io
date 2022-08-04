@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #ff8400 repeat;
+  background: url(../../assets/img/ai-wallpaper-1.jpg) no-repeat top center/cover;
   position: relative;
 }
 
