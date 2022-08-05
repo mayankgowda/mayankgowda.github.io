@@ -355,6 +355,10 @@ h3 {
   padding: 0 10px;
 }
 
+#about.section .container{
+  color: #fafafa;
+}
+
 .overlay {
   background-color: rgba(0, 0, 0, 0.4);
   height: 100%;
