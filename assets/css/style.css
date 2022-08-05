@@ -364,7 +364,7 @@ h3 {
   width: 100%;
 }
 .exp-bg {
-  background: url(../../assets/img/636856.jpg) no-repeat top center/cover;
+  background: url(../../assets/img/636856.jpg) no-repeat center/cover;
   background-attachment: fixed;
   height: 100%;
   left: 0;
