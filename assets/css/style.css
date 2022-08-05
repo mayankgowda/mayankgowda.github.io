@@ -397,6 +397,24 @@ h3 {
   width: 100%;
 }
 
+.projects-bg {
+  background: url(../../assets/img/2907010.png) no-repeat center/cover;
+  background-attachment: fixed;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.contact-bg {
+  background: url(../../assets/img/eat-sleep-code-repeat-wallpaper.jpg) no-repeat center/cover;
+  background-attachment: fixed;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
