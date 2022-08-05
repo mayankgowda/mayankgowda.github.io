@@ -372,6 +372,15 @@ h3 {
   width: 100%;
 }
 
+.abt-bg {
+  background: url(../../assets/img/2454628.png) no-repeat center/cover;
+  background-attachment: fixed;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
@@ -617,7 +626,6 @@ small {
   h3 {
     padding: 20px 30px;
     margin-bottom: 40px;
-    opacity: 0.05;
   }
   .container {
     margin: 0 auto;
