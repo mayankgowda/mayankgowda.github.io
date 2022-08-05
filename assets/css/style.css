@@ -617,6 +617,7 @@ small {
   h3 {
     padding: 20px 30px;
     margin-bottom: 40px;
+    opacity: 0.05;
   }
   .container {
     margin: 0 auto;
