@@ -441,6 +441,7 @@ h3 {
   background-color: rgba(33, 150, 243, 0.2);
 }
 
+
 .card {
   margin-bottom: 60px;
 }
@@ -579,6 +580,14 @@ a.hoverline:hover {
 
 .card.large .card-image {
   height: 230px;
+}
+
+#projects .card.large .card-image {
+  height: 55%;
+}
+
+#projects .card.large .card-action {
+  height: fit-content ;
 }
 
 .card.large .card-content {
