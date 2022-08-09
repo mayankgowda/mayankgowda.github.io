@@ -322,7 +322,7 @@ h3 {
 } */
 
 #intro.section {
-  background: url(../../assets/img/ai-wallpaper-1.jpg) no-repeat top center/cover;
+  /* background: url(../../assets/img/ai-wallpaper-1.jpg) no-repeat top center/cover; */
   position: relative;
 }
 
@@ -382,6 +382,16 @@ h3 {
   position: absolute;
   width: 100%;
 }
+.intro-bg {
+  background: url(../../assets/img/ai-wallpaper-1.jpg) no-repeat center/cover;
+  background-attachment: fixed;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+
+
 .exp-bg {
   background: url(../../assets/img/636856.jpg) no-repeat center/cover;
   background-attachment: fixed;
